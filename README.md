@@ -16,3 +16,7 @@ When it is dark, the traffic lights system is inactive.
 This is illustrated by the yellow light on the vehicle
 traffic light blinking. Darkness is measured with a
 photoresistor that has to be calibrated upon start.
+
+"Changing lights" sequence illustrated in a time table,
+each row is 500 ms.
+[img]https://i.imgur.com/GBuYKVP.png[/img]
