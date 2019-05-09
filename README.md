@@ -17,6 +17,11 @@ This is illustrated by the yellow light on the vehicle
 traffic light blinking. Darkness is measured with a
 photoresistor that has to be calibrated upon start.
 
-"Changing lights" sequence illustrated in a time table,
-each row is 500 ms.
+"Changing lights" sequence illustrated in a time table, each row is 500 ms.
+
 ![image](https://i.imgur.com/GBuYKVP.png)
+
+
+Physical setup.
+
+![image2](https://i.imgur.com/JIcMhUl.png)
